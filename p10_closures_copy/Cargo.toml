@@ -1,0 +1,7 @@
+[package]
+name = "p10_closures_copy"
+version = "0.1.0"
+authors = ["tgl"]
+edition = "2018"
+
+[dependencies]

@@ -1,0 +1,7 @@
+[package]
+name = "p13_iterator_trait"
+version = "0.1.0"
+authors = ["tgl"]
+edition = "2018"
+
+[dependencies]

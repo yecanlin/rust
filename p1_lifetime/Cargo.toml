@@ -1,0 +1,7 @@
+[package]
+name = "p1_lifetime"
+version = "0.1.0"
+authors = ["tgl"]
+edition = "2018"
+
+[dependencies]
