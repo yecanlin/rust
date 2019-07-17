@@ -1,0 +1,1 @@
+/home/tgl/Desktop/rust/p35_web_server_single_thread_example/target/debug/main: /home/tgl/Desktop/rust/p35_web_server_single_thread_example/src/bin/main.rs /home/tgl/Desktop/rust/p35_web_server_single_thread_example/src/lib.rs
